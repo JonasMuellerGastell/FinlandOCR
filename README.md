@@ -21,3 +21,6 @@ I train the model on a short extract of the 1940 Finnish agricultural census for
 	|_ SyntheticData
 		|_... utilities to create synthetic training data
 
+## Data Storage
+At present, for anonymity/licence reasons, all training data is held offline. Future versions will include trained models and, if feasible, at least extracts of the training data.
+
